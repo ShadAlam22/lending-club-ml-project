@@ -179,4 +179,5 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
-*.csv
+accepted_2007_to_2018Q4.csv
+cleaned_lending_data.csv
